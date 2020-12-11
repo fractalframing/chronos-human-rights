@@ -1,0 +1,24 @@
+{
+  "name": "chronos-human-rights",
+  "version": "1.0.0",
+  "description": "Human rights recommendations tracker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fractalframing/chronos-human-rights.git"
+  },
+  "keywords": [
+    "human",
+    "rights",
+    "gantt"
+  ],
+  "author": "Jadanm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fractalframing/chronos-human-rights/issues"
+  },
+  "homepage": "https://github.com/fractalframing/chronos-human-rights#readme"
+}
